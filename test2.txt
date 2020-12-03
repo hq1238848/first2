@@ -1,2 +1,4 @@
 print "hello,world!"
 print "my test"
+pass
+sleep(1)
