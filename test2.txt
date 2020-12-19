@@ -1,6 +1,6 @@
 print "hello,world!"
 print "my test"
-pass
+pass the wird
 sleep(1)
 new branch test
 
